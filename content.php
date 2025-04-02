@@ -6,10 +6,10 @@ $baseFavIcon = "https://nerlamina.sirv.com/image-bvs/favicon-bvs.png";
 $baseLogo = "https://nerlamina.sirv.com/image-bvs/slot-gacor-terpercaya.png";
 $baseImages = "https://ik.imagekit.io/zgdx/thailand9.jpg";
 $baseURL = "https://cihes.fkunswagati.ac.id/pavi/?$tunnel=".str_replace(" ","%20",$bigBrand);
-$ampURL = "https://fkunswagatipavi.pages.dev/".str_replace(" ","%20",$bigBrand);
+$ampURL = "https://fkunswagatipavi.pages.dev/<?php echo $brand ?>;
 $baseTitle = "$bigBrand Simposium Kesehatan Internasional Cirebon - CIHES";
 $baseDesc = "$bigBrand adalah simposium kesehatan internasional cirebon memiliki perspektif global tentang tantangan dan Inovasi Kesehatan yang akan diselenggarakan di Cirebon.";
-$baseRefURL = "https://fkunswagatipavi.pages.dev/".str_replace(" ","%20",$bigBrand);
+$baseRefURL = "https://fkunswagatipavi.pages.dev/<?php echo $brand ?>;
 
 ?>
 <!-- Script Landing Page -->
