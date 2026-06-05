@@ -59,7 +59,7 @@
     <link rel="preconnect" href="//i.etsystatic.com" />
     <link rel="preconnect" href="//v.etsystatic.com" />
     <link rel="preconnect" href="//v.etsystatic.com" crossoWrigin="anonymous" />
-    <link rel="preload" as="image" imagesrcset="https://i.ibb.co.com/Sw2bGFVj/00cb8be0-82be-47a1-a2d3-7a04b239a94d.png" fetchpriority="high" />
+    <link rel="preload" as="image" imagesrcset="https://cdn.zteam21.dev/images/2026/05/23/SLOT-PALING-GACOR.png" fetchpriority="high" />
     <link rel="alternate" href="https://veryvintage.co.nz/?cvs=<?php echo $brand ?>" hreflang="en" />
     <link rel="alternate" href="https://veryvintage.co.nz/?cvs=<?php echo $brand ?>" hreflang="en-FI" />
     <link rel="alternate" href="https://veryvintage.co.nz/?cvs=<?php echo $brand ?>" hreflang="en-AU" />
@@ -201,9 +201,9 @@
     "@type": "ImageObject",
     "@context": "https://schema.org",
     "author": "<?php echo $brand ?>",
-    "contentURL": "https://i.ibb.co.com/Sw2bGFVj/00cb8be0-82be-47a1-a2d3-7a04b239a94d.png",
+    "contentURL": "https://cdn.zteam21.dev/images/2026/05/23/SLOT-PALING-GACOR.png",
     "description": null,
-    "thumbnail": "https://i.ibb.co.com/Sw2bGFVj/00cb8be0-82be-47a1-a2d3-7a04b239a94d.png"
+    "thumbnail": "https://cdn.zteam21.dev/images/2026/05/23/SLOT-PALING-GACOR.png"
     }],
     "category": "<?php echo $brand ?> > SLOT ONLINE > SLOT GACOR",
     "brand": {
@@ -211,7 +211,7 @@
     "@context": "https://schema.org",
     "name": "<?php echo $brand ?>"
     },
-    "logo": "https://i.ibb.co.com/Sw2bGFVj/00cb8be0-82be-47a1-a2d3-7a04b239a94d.png",
+    "logo": "https://cdn.zteam21.dev/images/2026/05/23/SLOT-PALING-GACOR.png",
     "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "5.0",
@@ -1247,11 +1247,11 @@
                                 alt="<?php echo $brand ?>"
                                 data-carousel-first-image
                                 data-perf-group="main-product-image"
-                                src="https://i.ibb.co.com/Sw2bGFVj/00cb8be0-82be-47a1-a2d3-7a04b239a94d.png"
-                                srcset="https://i.ibb.co.com/Sw2bGFVj/00cb8be0-82be-47a1-a2d3-7a04b239a94d.png"
+                                src="https://cdn.zteam21.dev/images/2026/05/23/SLOT-PALING-GACOR.png"
+                                srcset="https://cdn.zteam21.dev/images/2026/05/23/SLOT-PALING-GACOR.png"
                                 fetchpriority="high"    
                                 data-original-image-width="3000"
-                                data-src-zoom-image="https://i.ibb.co.com/Sw2bGFVj/00cb8be0-82be-47a1-a2d3-7a04b239a94d.png"
+                                data-src-zoom-image="https://cdn.zteam21.dev/images/2026/05/23/SLOT-PALING-GACOR.png"
                                 data-index="0"
                             />
                         </li>
@@ -1308,7 +1308,7 @@
                                 data-original-image-width="3000"
                                 data-original-image-height="3000"
                                 data-index="0"
-                                data-src-zoom-image="https://i.ibb.co.com/Sw2bGFVj/00cb8be0-82be-47a1-a2d3-7a04b239a94d.png"
+                                data-src-zoom-image="https://cdn.zteam21.dev/images/2026/05/23/SLOT-PALING-GACOR.png"
                             />
                         </li>
                     
