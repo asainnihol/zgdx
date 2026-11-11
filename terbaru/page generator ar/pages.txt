@@ -1,6 +1,6 @@
 345-152-kit-8-cameras-ip-disque-500g-4mp-unv-bas-prix-tunisie-loop-cam.html
 468-164-kit-de-surveillance-hikvision-4-cameras-disque-500g-5mp-bas-prix-tunisie.html
-en/
+en/index.html
 en/154-cable-coaxial-kx6-alimentation-pour-camera-de-surveillance-prix-tunisie.html
 en/156-connecteur-bnc-a-sertir-pour-camera-prix-tunisie.html
 en/163-disque-dur-interne-surveillance-1to-prix-tunisie.html
@@ -30,7 +30,7 @@ en/722-alpha-iptv-12-months-subscription-usa-uk.html
 en/723-esiptv-abonnement-12-mois.html
 en/87-aux-bluetooth-35-mm-prix-tunisie.html
 en/92-etui-tablette-7-cuire-prix-tunisie.html
-fr/
+fr/index.html
 fr/103-manette-de-jeu-sans-fil-ps3-double-shock-bluetooth-prix-tunisie.html
 fr/107-chargeur-secteur-type-c-aspor-2-ports-24a-blanc-prix-tunisie.html
 fr/108-cable-de-charge-usb-aspor-pour-iphone-blanc-prix-tunisie.html
